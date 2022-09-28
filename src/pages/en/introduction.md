@@ -1,10 +1,10 @@
 ---
-title: Introduction
+title: Tweeq Support
 description: Docs intro
 layout: "../../layouts/MainLayout.astro"
 ---
 
-**Welcome to Astro!**
+**Welcome to Tweeq!**
 
 This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
 
